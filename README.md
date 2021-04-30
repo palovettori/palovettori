@@ -3,7 +3,7 @@
 I'm self taught software developer, currently working only on personal projects.
 
 
-![GitHub Statistics](https://github-readme-stats.vercel.app/api?username=arcccan&show_icons=true&hide_border=true)
+![GitHub Statistics](https://github-readme-stats.vercel.app/api?username=arcccan&show_icons=true&hide_border=true&theme=radical)
 
 <!---
 arcccan/arcccan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
