@@ -1,7 +1,7 @@
 # Hello!
 
 - ✨ I'm a self taught software developer, working only on personal projects.
-- 💻 I code using JS, TS & Golang.
+- 💻 I enjoy coding with JS, TS & Golang.
 
 
 ![GitHub Statistics](https://github-readme-stats.vercel.app/api?username=arlomoretti&show_icons=true&hide_border=true&theme=nord )
