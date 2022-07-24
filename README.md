@@ -4,7 +4,7 @@
 - 💻 I enjoy coding with JS, TS & Golang.
 
 
-![GitHub Statistics](https://github-readme-stats.vercel.app/api?username=aaarlo&show_icons=true&hide_border=true&theme=nord )
+![GitHub Statistics](https://github-readme-stats.vercel.app/api?username=arlo2k&show_icons=true&hide_border=true&theme=nord )
 
 <!---
 arcccan/arcccan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
