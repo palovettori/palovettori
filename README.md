@@ -1,4 +1,11 @@
-# Hello!
+<h3 align="center">👋 Hi, I'm Arlo.</h3>
+
+<p align="center">
+  <a href="https://arlo.sh/">Website</a> •
+  <a href="https://twitter.com/arlo22k">Twitter</a>
+</p>
+
+---
 
 - ✨ I'm a self taught software developer, working only on personal projects.
 - 💻 I enjoy coding with JS, TS & Golang.
