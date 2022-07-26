@@ -7,10 +7,6 @@
 
 ---
 
-- ✨ I'm a self taught software developer, working only on personal projects. Most of the time I use TS & Golang.
-
-
-
 <!---
 ![GitHub Statistics](https://github-readme-stats.vercel.app/api?username=arlo2k&show_icons=true&hide_border=true&theme=nord )
 
