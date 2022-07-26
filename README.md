@@ -10,9 +10,10 @@
 - ✨ I'm a self taught software developer, working only on personal projects. Most of the time I use TS & Golang.
 
 
-![GitHub Statistics](https://github-readme-stats.vercel.app/api?username=arlo2k&show_icons=true&hide_border=true&theme=nord )
 
 <!---
+![GitHub Statistics](https://github-readme-stats.vercel.app/api?username=arlo2k&show_icons=true&hide_border=true&theme=nord )
+
 arcccan/arcccan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
